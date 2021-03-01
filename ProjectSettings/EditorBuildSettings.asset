@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Oculus/Avatar/Samples/RemoteLoopback/RemoteLoopback (m).unity
+    guid: 5d86b70657b49fc4eacecaf71002e759
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 51a09192243738d479e13451dde76408,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d5760df8b6a4a5440a8039c46f585535,
+      type: 2}

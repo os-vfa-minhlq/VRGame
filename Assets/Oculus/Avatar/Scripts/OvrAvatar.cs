@@ -1333,7 +1333,7 @@ public class OvrAvatar : MonoBehaviour
             part.mesh.material.SetColor ("_BaseColor", new Color(1,health/100,health/100));
             if(health <=0)
             {
-                part.mesh.material.SetFloat("_Alpha",0.0f);
+                part.mesh.material.SetFloat("_Alpha",0.5f);
             }
         }
 
