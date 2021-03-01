@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Oculus/Avatar/Samples/RemoteLoopback/RemoteLoopback (m).unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
